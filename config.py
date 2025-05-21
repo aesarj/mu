@@ -35,11 +35,11 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/aesarj/mu.git",
+    "https://github.com/aesarj/mu",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "mu")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
-    "GIT_TOKEN", "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"
+    "GIT_TOKEN", "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"
 )  # املأ هذا المتغير إذا كان مستودعك الأصلي خاصًا
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sorce_paris")
