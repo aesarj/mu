@@ -53,7 +53,7 @@ async def check_is_joined(message):
             "play",
             "تشغيل",
             "شغل",
-            "فيد",
+            "vplay",
             "فديو",
             "cplay",
             "cvplay",
