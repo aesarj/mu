@@ -37,9 +37,9 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/aesarj/mu.git",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "helllas")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "mu")
 GIT_TOKEN = getenv(
-    "GIT_TOKEN", "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"
+    "GIT_TOKEN", "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"
 )  # املأ هذا المتغير إذا كان مستودعك الأصلي خاصًا
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sorce_paris")
