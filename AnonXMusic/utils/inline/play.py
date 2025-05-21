@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝐒𝐎𝗨𝐑𝐂𝐄 𝐏𝐀𝐑𝐈𝐒",
+                text="𝐏𝐀𝐑𝐈𝐒",
                 url="https://t.me/sorce_paris"
             )
         ],
