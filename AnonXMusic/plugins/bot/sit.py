@@ -13,10 +13,10 @@ async def mak(client: Client, message: Message):
         caption="𝐒𝐎𝗨𝐑𝐂𝐄 𝐏𝐀𝐑𝐈𝐒\n~ Dav .",
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⦗ Dev ⦘", url=DEV_URL)],
+                [InlineKeyboardButton("⦗ Dev ⦘", url="https://t.me/F_Q_1")],
                 [
-                    InlineKeyboardButton("⦗ Updates ⦘", url=UPDATES_URL),
-                    InlineKeyboardButton("⦗ support ⦘", url=SUPPORT_URL),
+                    InlineKeyboardButton("⦗ Updates ⦘", url="https://t.me/y_9ame"),
+                    InlineKeyboardButton("⦗ support ⦘", url="https://t.me/sorce_paris"),
                 ],
             ]
         ),
